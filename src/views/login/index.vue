@@ -106,7 +106,7 @@ const loginRules = computed(() => {
   };
 });
 
-const checkPassword = (rule: any, value: any, callback: any) => {
+const checkPassword = (_rule: any, value: any, callback: any) => {
   if (value.length < 6) {
     callback(new Error("The password can not be less than 6 digits"));
   } else {
