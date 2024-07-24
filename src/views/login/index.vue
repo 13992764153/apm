@@ -2,7 +2,7 @@
   <div class="login">
     <el-card>
       <div class="login-title">
-        <h2>niu-be-admin</h2>
+        <h2>apm</h2>
       </div>
       <el-form ref="loginFormRef" :model="loginData" :rules="loginRules" class="login-form">
         <el-form-item prop="username">

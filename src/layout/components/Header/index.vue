@@ -5,8 +5,6 @@
       <Collapse />
     </div>
     <div class="header-right flex items-center justify-between">
-      <!-- 暗黑模式 -->
-      <Dark />
       <!-- 刷新 -->
       <Refresh />
       <!-- 全屏 -->
@@ -20,7 +18,7 @@
 <script setup lang="ts">
 import Collapse from "./components/Collapse.vue";
 import FullScreen from "./components/FullScreen.vue";
-import Dark from "./components/Dark.vue";
+
 import User from "./components/User.vue";
 import Refresh from "./components/Refresh.vue";
 </script>

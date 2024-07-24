@@ -2,7 +2,7 @@
 
 ```bash
 # 克隆代码
-git clone https://github.com/z-pengfei/niu-be-admin.git
+git clone https://github.com/13992764153/apm.git
 
 # 进入目录
 cd apm

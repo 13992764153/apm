@@ -14,7 +14,7 @@ export default [
           icon: "Bicycle",
           iconType: "el",
           title: "github",
-          isLink: "https://github.com/z-pengfei/niu-be-admin"
+          isLink: "https://github.com/z-pengfei/apm"
         }
       },
       {

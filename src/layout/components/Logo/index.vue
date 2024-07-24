@@ -6,7 +6,7 @@
       </router-link>
 
       <router-link v-else key="expand" to="/">
-        <span class="font-bold text-xl">niu-be-admin</span>
+        <span class="font-bold text-xl">apm</span>
       </router-link>
     </transition>
   </div>

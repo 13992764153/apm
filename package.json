@@ -1,5 +1,5 @@
 {
-  "name": "niu-be-admin",
+  "name": "apm",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -83,7 +83,7 @@
     "vite-plugin-svg-icons": "^2.0.1",
     "vue-tsc": "^2.0.11"
   },
-  "repository": "https://github.com/z-pengfei/niu-be-admin.git",
+  "repository": "https://github.com/z-pengfei/apm.git",
   "author": "梦屿孤独相伴。",
   "license": "MIT"
 }
